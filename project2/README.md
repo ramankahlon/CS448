@@ -1,3 +1,5 @@
-I added an additional setpage method in Page.java which takes a Page array as a parameter.
+#CS448 Project 2
 
-I worked on Part 1, while my partner Joshua Schmitt worked on Parts 2 and 3.
+Buffer Manager & Heap File
+
+I added an additional setpage method in Page.java which takes a Page array as a parameter.
