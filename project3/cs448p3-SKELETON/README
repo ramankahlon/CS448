@@ -1,0 +1,10 @@
+Parts Implemented:
+
+Part 1: Scan Operators
+FileScan.java, KeyScan.java, IndexScan.java
+
+Part 2: Primitive Operators
+Selection.java, Projection.java
+
+Part 3: HashJoin
+HashJoin.java
